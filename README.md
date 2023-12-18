@@ -29,4 +29,10 @@ This project demonstrates a TCP server application built using the Qt framework 
 * If encountering issues with the server startup or client connections, ensure the correct IP address and port are used.
 * Check for any error messages displayed by the application.
 
+## About 
+* TCP server is a program or a device that provides services to other programs or devices known as clients.
+* It waits and listens for incoming connection requests from clients and responds to those requests.
+* It typically operates on a well-defined port number and continuously runs, waiting for clients to establish connections.
+* Once a client connects, the server can handle multiple clients simultaneously or in sequence, depending on its design
+
 
